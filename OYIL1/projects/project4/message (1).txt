@@ -1,0 +1,107 @@
+Course Registration Database Project
+Project Overview:
+
+The goal of this project is to design a Course Registration Database, where students will create the database schema, and then develop the corresponding web application. Students will be expected to implement the following database functionalities and later build dynamic web pages for interaction with the database(in graduation project).
+
+
+
+
+Database Schema Design:
+
+Courses Table:
+
+Attributes: Course_ID (Primary Key), Course_Name, Instructor_ID (Foreign Key), Credits, Department.
+
+This table stores information about the courses available for registration.
+
+Students Table:
+
+Attributes: Student_ID (Primary Key), First_Name, Last_Name, Email, Phone_Number, Enrollment_Date.
+
+This table holds data about the students who are eligible for course registration.
+
+Enrollments Table (Many-to-Many Relationship):
+
+Attributes: Enrollment_ID (Primary Key), Student_ID (Foreign Key), Course_ID (Foreign Key), Enrollment_Date, Status (Enrolled/Completed/Withdrawn).
+
+Tracks the courses that each student is registered for, and the status of their registration.
+
+Instructors Table:
+
+Attributes: Instructor_ID (Primary Key), Name, Department, Email.
+
+Contains details about the instructors who teach the courses.
+
+Departments Table:
+
+Attributes: Department_ID (Primary Key), Department_Name.
+
+Stores information about different academic departments.
+
+Course_Requirements Table (Optional):
+
+Attributes: Course_ID (Foreign Key), Prerequisite_Course_ID (Foreign Key).
+
+Defines the prerequisites for each course, allowing for students to be restricted from registering if they have not completed the prerequisites.
+
+
+
+
+
+
+Project Objectives:
+
+Design Database Schema: Students will create the database schema based on the provided requirements. They will start by identifying the necessary tables, attributes, and relationships.
+
+Create Database and Tables: Students will use SQL to create the database and tables. At least 5 records should be inserted into each table for testing purposes.
+
+
+
+
+
+
+
+SQL Queries:
+
+Write SQL queries to perform the following tasks:
+
+Select students enrolled in a specific course.
+
+Add a new student.
+
+Update the enrollment status of a student.
+
+Find courses taught by a specific instructor.
+
+List all students who have completed a specific course.
+
+Query for all courses in a particular department.
+
+Handle late registration by adding records for courses after the enrollment deadline.
+
+Optional: Find students who haven't completed their prerequisites.
+
+
+
+
+
+
+Deliverables:
+
+GitHub Repository: The project should be hosted on GitHub with the SQL queries included, along with a readme that provides the database schema and an overview of the project.
+
+
+
+
+
+Key Learning Outcomes:
+
+Database schema design and normalization.
+
+Writing complex SQL queries for various database operations.
+
+Building dynamic web applications that interact with databases.
+
+Managing a GitHub project repository
+اعملوه بتأني لانه  رح نستخدم نفس هاي الداتا بيس تقريبا للمشروع النهائي و معكم لنهاية يوم السبت (بكرا)تسليمه 
+بالتوفيق للجمي

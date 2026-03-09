@@ -1,0 +1,45 @@
+UI / UX Project Outcomes: : electronics website, caffe , clothes website 23/11/2025
+
+Understand the difference between UI and UX 
+Apply user-centered design thinking
+Create basic wireframes ,user flows and prototype
+Choose appropriate colors, fonts, and layouts
+Use design tools such as Figma
+Explain and justify design decisions
+------------------------------------------
+HTML & CSS Project Outcomes: Portfolio 11/12/2025
+
+Convert UI designs into real web pages
+Use semantic HTML correctly
+Build multi-page static websites
+Style pages using CSS
+Create responsive layouts
+Organize project files properly
+-------------------------------------------
+JavaScript Project Outcomes: Simple Calculator 24/12/2025
+
+Understand basic programming logic
+Use variables, conditions, and loops
+Work with arrays and objects
+Manipulate the DOM and handle events
+Add real interactivity to web pages
+Separate structure, style, and behavior
+--------------------------------------------
+Database & SQL Project Outcomes: Course Registration Database 8/1/2026
+
+Understand database concepts
+Design tables and relationships
+Use primary and foreign keys
+Write basic SQL queries (CRUD)
+Use WHERE and JOIN clauses
+Organize and manage data logically
+----------------------------------------
+ASP.NET Core MVC Project Outcomes:Simple Course Management System 26/2/2026
+
+Understand and apply the MVC pattern
+Connect the frontend with the database
+Implement full CRUD operations
+Use Razor views and layouts
+Handle routing and validation
+Build a complete web application
+become a full stack web developer
